@@ -63,7 +63,7 @@
 
 <h4> About: Major Project </h4>
 <ul>
- <li> Author: Akash Kumar </li>
+ <li> Author: Meenakshi shukla </li>
  <li> NITD </li>
- <li> CSE: 2023 </li>
+ <li> ECE: 2026 </li>
 </ul>
